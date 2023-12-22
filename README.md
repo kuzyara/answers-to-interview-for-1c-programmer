@@ -165,6 +165,9 @@ https://infostart.ru/pm/100837/
 ### Как проходит собеседование 1С-разработчика в крупную IT-компанию
 https://infostart.ru/pm/1064292/
 
+## Задача на ошибки и неоптимальности при проведении приходной накладной
+https://infostart.ru/1c/articles/1896407/
+
 ### Оптимизируй код/запрос
 1. [queries/block1.md](queries/block1.md)
 2. [queries/block2.md](queries/block2.md)
