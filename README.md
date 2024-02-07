@@ -361,3 +361,6 @@ huntflow.ru - это crm система для рекрутеров с удоб�
 https://youtube.com/shorts/E3Bn2uhPqm8?si=kfXuEKufewhvT1nl
 
 todo: оформить в виде викторины Своя игра)
+
+## Тестовые задания дополнительные
+https://github.com/andrewnomoore/dev_1c
