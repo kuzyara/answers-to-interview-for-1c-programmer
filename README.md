@@ -132,14 +132,6 @@ fifo/lifo
 8. сколько будет '20200101'+'20220101'
 
 ### 30 задач. Странных и не очень (на понимание интерпретатора языка)
-https://infostart.ru/1c/articles/1161686/
-
-пример:
-<details>
-<summary>Что выведет этот код? И выполнится ли?</summary>
-![image](https://github.com/user-attachments/assets/ac1a8a7b-3156-402d-bf12-3e718ee591c5)
-</details>
-
 * [Задачи 1-10](queries/dumn_translator1-10.md)
 * Задачи с 11 по 20
 * Задачи с 21 - 30
