@@ -372,3 +372,6 @@ https://github.com/andrewnomoore/dev_1c
 ## telegram
 https://t.me/odinstestss
 https://t.me/KuzNikAl
+
+## Памятка для техскрининга
+У каждого вопроса есть набор buzz words, объединив которые можно дать хоть какой-то ответ.
