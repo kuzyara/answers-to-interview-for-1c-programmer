@@ -384,8 +384,6 @@ https://github.com/andrewnomoore/dev_1c
 ## telegram
 https://t.me/odinstestss - канал
 
-https://t.me/sobesy1c - группа
-
 https://t.me/KuzNikAl - мои контакт
 
 ## Памятка для техскрининга
