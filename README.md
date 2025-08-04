@@ -9,6 +9,9 @@
 ## Литкод для 1С
 https://xexod.ru/course-03.html - 
 
+## 15 мифов о платформе 1С
+https://infostart.ru/1c/articles/2434171
+
 ### Вопросы и кейсы на собеседовании программистов 1С
 _https://forum.mista.ru/topic.php?id=828831_
 
