@@ -398,7 +398,7 @@ https://youtube.com/shorts/E3Bn2uhPqm8?si=kfXuEKufewhvT1nl
 
 todo: экспортировать в виде викторины Своя игра
 
-[Инструкция как выбрать язык программирования?](queries/86afa7f07d30bea00f175f0bbeba9fce.jpg)
+[Выбираем первый язык программирования](queries/86afa7f07d30bea00f175f0bbeba9fce.jpg)
 
 ## Тестовые задания дополнительные
 https://github.com/andrewnomoore/dev_1c
